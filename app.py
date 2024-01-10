@@ -6,4 +6,4 @@ for f in myArray:
     print(f)
     if f%2!=0:
         print("none\n")
-myFunc("Hellos")
+myFunc("Hellos jose")
