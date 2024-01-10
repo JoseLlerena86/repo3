@@ -3,4 +3,4 @@ print(myArray)
 for f in myArray:
     print(f)
     if f%2!=0:
-        print("none")
+        print("none\n")
